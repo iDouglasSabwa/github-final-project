@@ -5,7 +5,7 @@
    # Do not use this in production. Sample purpose only.
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors: Douglas Sabwa Indumwa (IBM Student Course)
+   # Additional Authors: Douglas Sabwa Indumwa
 
    # Input:
    # p, principal amount
